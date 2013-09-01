@@ -14,11 +14,9 @@ Install intructions are here:
 http://www.pygame.org/download.shtml
 
 LINUX:
-<<<<<<< HEAD
 On Ubuntu linux, you don't need the archive. From a terminal:
 =======
 On Ubuntu linux, you don't need the archives. From a terminal:
->>>>>>> 47a50485927ffcca7f4b3e1d81ada220a41f7b13
 sudo apt-get install python-pygame
 
 
