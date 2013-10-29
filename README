@@ -2,7 +2,7 @@ Author:  Stephen Dunn
 Project: Monte Carlo Pi
 -------------
 
-You need to install the Python (2.7+) and the PyGame library to run this code. 
+You need to install Python (2.7+) and the PyGame library to run this code. 
 Then just: python pi.py
 
 Setting up PyGame
