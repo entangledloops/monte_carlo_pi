@@ -9,12 +9,12 @@ Setting up PyGame
 ---------------------------------
 
 OSX & WINDOWS:
+=======
 The tar file is for OSX, the zip is for Windows.
 Install intructions are here:
 http://www.pygame.org/download.shtml
 
 LINUX:
-On Ubuntu linux, you don't need the archive. From a terminal:
 =======
 On Ubuntu linux, you don't need the archives. From a terminal:
 sudo apt-get install python-pygame
